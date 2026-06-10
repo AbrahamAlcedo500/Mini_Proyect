@@ -10,7 +10,7 @@
 
     <header>
         <div id="Titulo">
-            <h1>Mini Proyecto</h1>
+            <h1>MINI PROYECTO</h1>
         </div>
     </header>
 
