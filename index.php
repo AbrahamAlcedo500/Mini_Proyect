@@ -19,13 +19,13 @@
         <div class="tarjeta tarjeta-p1">
             <h2>Problema 1</h2>
             <p>Calcular la <strong>media, desviación estándar, el número min y el máx</strong> de los 5 primeros números positivos introducidos a partir de un formulario.</p>
-            <a href="problema1.php">Ir al problema 1</a>
+            <a href="Controlador/p1.php">Ir al problema 1</a>
         </div>
 
         <div class="tarjeta tarjeta-p2">
             <h2>Problema 2</h2>
             <p>Calcular la suma de los números del 1 al 1,000.<br><br><strong>Meta:</strong> 500500</p>
-            <a href="problema2.php">Ir al problema 2</a>
+            <a href="Controlador/p2.php">Ir al problema 2</a>
         </div>
 
         <div class="tarjeta tarjeta-p3">
