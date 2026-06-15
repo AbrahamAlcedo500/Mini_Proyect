@@ -1,9 +1,0 @@
-{
-    "name": "utp/mini-proyect",
-    "description": "Mini Proyect 2 - Estructuras de Control en PHP con MVC",
-    "autoload": {
-        "psr-4": {
-            "App\\": "src/"
-        }
-    }
-}
