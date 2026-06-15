@@ -4,7 +4,7 @@
             PRESENTADO POR:<br>
             ABHRAHAM ALCEDO<BR>
             TRALY AMARO<br>
-            SAMUEL 
+            SAMUEL EL ZAGHIR
         </p>
     </footer>
 </body>
