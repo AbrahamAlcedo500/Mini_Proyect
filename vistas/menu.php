@@ -1,7 +1,7 @@
 <?php 
 // vistas/menu.php
 
-// Incluimos la cabecera común (Principio DRY)
+// 1. Incluimos la cabecera común de la carpeta layout (Mantiene tu fondo y estilos oscuros)
 include __DIR__ . '/layout/header.php'; 
 ?>
 
@@ -17,6 +17,7 @@ include __DIR__ . '/layout/header.php';
     </h3>
     
     <div class="grid-problemas">
+        
         <a href="index.php?p=1" class="card">
             <strong>#01. Estadística de 5 Números</strong>
             <span>Calcula media, desviación estándar, valor mínimo y máximo de positivos.</span>
@@ -65,6 +66,6 @@ include __DIR__ . '/layout/header.php';
 </main>
 
 <?php 
-// Incluimos el pie de página con la fecha dinámica exigida
+// 2. Incluimos tu pie de página nativo
 include __DIR__ . '/layout/footer.php'; 
 ?>
